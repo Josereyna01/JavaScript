@@ -7,3 +7,8 @@ if(edad === 18) {
 } else {
     console.log("No puedes votar, Eres menor");
 }     
+
+condition ? true : false
+
+var numero = 1;
+var resultado = numero === 1 ? "Si Soy AMA" : "No soy AMA";
